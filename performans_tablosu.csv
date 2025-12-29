@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+"Varroa, Small Hive Beetles",1.0,1.0,1.0,95.0
+ant problems,0.0,0.0,0.0,91.0
+"few varrao, hive beetles",0.0,0.0,0.0,116.0
+healthy,0.7509,0.9483,0.8381,677.0
+hive being robbed,0.5882,1.0,0.7407,50.0
+missing queen,0.0,0.0,0.0,6.0
+accuracy,0.7604,0.7604,0.7604,0.7604
+macro avg,0.3899,0.4914,0.4298,1035.0
+weighted avg,0.6114,0.7604,0.6758,1035.0
